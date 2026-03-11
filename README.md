@@ -4,6 +4,8 @@
 
 - A oficina tem como objetivo apresentar os principais conceitos de banco de dados, como entidade e relacionamento e modelagem de dados, além de atividades práticas como criação de consultas e restauração de banco de dados.
 
+##Ao participar, o aluno autoriza o uso e divulgação de sua imagem e voz para publicações feitas pela instituição e pelo instrutor (em seus canais de comunicação).
+
 ## Como acessar os materiais?
 
 Tutorial de instalação do SQL Server e SQL Server Management Studio: [Youtube: SSMS - 2022 Download e Instalação](https://www.youtube.com/watch?v=tZs8ZPMvNzM)
@@ -25,6 +27,11 @@ Tutorial de como abrir o script e criar o banco de dados, para realizar os exerc
 | 8 | DATABRICKS | [📄 Aula 8](./aula8/) |
 | 9 | POWERBI COM SQL | [📄 Aula 9](./aula9/) |
 | 10 | PROJETO FINAL | [📄 Aula 10](./aula10/) |
+
+## Certificado:
+
+A instituição realizará a emissão do certificado ao aluno que obtiver uma frequência mínima de 70%. Contudo, alunos que não concluírem a inscrição até a data limite 13/03/2026
+não terão direito à emissão do certificado ao final da oficina.
 
 ## Contato:
 

@@ -12,18 +12,19 @@ Script de criação do Banco de Dados: [Tabelas para praticar consultas](./Scrip
 
 Tutorial de como abrir o script e criar o banco de dados, para realizar os exercicios das aulas: [Como baixar os arquivos das aulas e exercícios do workshop SQL Essencial.](https://www.youtube.com/watch?v=jCjeDQikpac)
 
-Tutorial de instalação do XAMPP ( Software gratuito e de código aberto que permite criar um servidor web local em seu computador, importante pois será ele que simulará um ambiente de servidor em seu computador ) : [Curso MySQL #02b - Instalando o XAMPP](https://youtu.be/R2HrwSQ6EPM?si=JrPsZdXFiHbORJU8).
-
 ## Cronograma:
 | Aula | Conteúdo | Material |
 |------|----------|----------|
 | 1 | SELECT, FROM | [📄 Aula 1](./aula1/) |
-| 2 | WHERE, LIKE, DISTINCT, TOP, ORDER BY | [📄 Aula 2](./aula2/) |
+| 2 | WHERE, LIKE, DISTINCT, TOP, ORDER BY, IN, OR, BETWEEN | [📄 Aula 2](./aula2/) |
 | 3 | CREATE, INSERT, UPDATE, DELETE | [📄 Aula 3](./aula3/) |
 | 4 | COUNT, SUM, AVG, MIN, MAX, GROUP BY | [📄 Aula 4](./aula4/) |
 | 5 | JOINS | [📄 Aula 5](./aula5/) |
 | 6 | QUIZ | [📄 Aula 6](./aula6/) |
-| 7 | PROJETO FINAL | [📄 Aula 7](./aula7/) |
+| 7 | PROJETO | [📄 Aula 7](./aula7/) |
+| 8 | DATABRICKS | [📄 Aula 8](./aula8/) |
+| 9 | POWERBI COM SQL | [📄 Aula 9](./aula9/) |
+| 10 | PROJETO FINAL | [📄 Aula 10](./aula10/) |
 
 ## Contato:
 

@@ -7,7 +7,7 @@
 SELECT Nome, Cidade, Regiao 
 FROM Clientes 
 WHERE Cidade = 'Marabá';
-Maior ou igual (>=) / Menor ou igual (<=)
+
 
 -- Maior ou igual (>=) / Menor ou igual (<=)
 

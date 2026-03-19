@@ -15,7 +15,6 @@ WHERE Cidade = 'Marabá';
 SELECT Descr, Unidades 
 FROM Produtos 
 WHERE Unidades <= 30;
-Diferente (<> ou !=)
 
 -- Diferente (<> ou !=)
 

@@ -1,4 +1,4 @@
-## Lista de Exercícios: SQL com Operadores
+#Lista de Exercícios: SQL com Operadores
 
 1. Selecione todos os dados dos funcionários que possuem um salário superior a R$ 3.000,00.
 

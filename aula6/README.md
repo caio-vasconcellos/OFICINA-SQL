@@ -25,3 +25,12 @@ A perícia coletou as seguintes evidências no tapete da cena do crime:
 * **Fio de Cabelo:** Cor Preta.
 * **Pegada:** Tamanho entre 40 e 41.
 * **Perfil do Culpado:** Uma testemunha viu alguém "bem alto" saindo apressado (Altura > 180cm).
+
+---
+
+###  Etapa 2: A Prova Material (10 min)
+O assassino precisou de um **Cartão Tech** para invadir a sala. Além disso, o perito encontrou um frasco de **Perfume Francês** deixado sobre a mesa da vítima.
+
+>   **Destaque:** Com base nos IDs filtrados na Etapa 1, cruze os dados com a tabela `Inventario`.
+>   **Desafio:** Você deve encontrar quem possui **AMBOS** os itens.
+

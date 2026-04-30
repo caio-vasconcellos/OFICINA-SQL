@@ -34,3 +34,12 @@ O assassino precisou de um **Cartão Tech** para invadir a sala. Além disso, o 
 >   **Destaque:** Com base nos IDs filtrados na Etapa 1, cruze os dados com a tabela `Inventario`.
 >   **Desafio:** Você deve encontrar quem possui **AMBOS** os itens.
 
+---
+
+### Etapa 3: Quebra de Álibis (10 min)
+Aqui a investigação fica tensa. O crime ocorreu entre **19:30 e 20:30**. Ter os objetos não basta; o suspeito precisava estar no local no momento exato.
+
+> **Destaque:** Analise a tabela `Acessos_Area_VIP` e a tabela `Depoimentos`.
+> **Dica de Ouro:** Leia os depoimentos!
+
+---

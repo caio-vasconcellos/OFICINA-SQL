@@ -1,55 +1,39 @@
-# SQL Essencial - Oficina de Banco de Dados (1º Semestre 2026)
+# SQL Essencial - Oficina de Banco de Dados
 
-## Descrição:
+Material introdutório de SQL Server para a oficina da FATEC Jundiaí. O percurso foi reorganizado para que cada aula siga exatamente o cronograma, com exemplos curtos e exercícios graduais.
 
-- A oficina tem como objetivo apresentar os principais conceitos de banco de dados, como entidade e relacionamento e modelagem de dados, além de atividades práticas como criação de consultas e restauração de banco de dados.
+## Como começar
 
+1. Instale o SQL Server e o SQL Server Management Studio (SSMS).
+2. Execute [`Script-EMPRESA.sql`](./Script-EMPRESA.sql) uma vez para criar o banco `EmpresaBrasil`.
+3. Em cada aula, abra primeiro o `GUIA.md` e depois o script indicado.
+4. Faça os exemplos junto com o instrutor antes de tentar os exercícios.
 
-### Ao participar, o aluno autoriza o uso e divulgação de sua imagem e voz para publicações feitas pela instituição e pelo instrutor (em seus canais de comunicação).
+## Cronograma oficial
 
+| Aula | Conteúdo obrigatório | Material principal |
+| --- | --- | --- |
+| 1 | `SELECT`, `FROM` | [`aula1/GUIA.md`](./aula1/GUIA.md) |
+| 2 | `WHERE`, `LIKE`, `DISTINCT`, `TOP`, `ORDER BY`, `IN`, `OR`, `BETWEEN` | [`aula2/GUIA.md`](./aula2/GUIA.md) |
+| 3 | `CREATE`, `INSERT`, `UPDATE`, `DELETE` | [`aula3/GUIA.md`](./aula3/GUIA.md) |
+| 4 | `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `GROUP BY` | [`aula4/GUIA.md`](./aula4/GUIA.md) |
+| 5 | `JOINS` | [`aula5/GUIA.md`](./aula5/GUIA.md) |
+| 6 | Quiz de revisão | [`aula6/GUIA.md`](./aula6/GUIA.md) |
+| 7 | Projeto guiado | [`aula7/GUIA.md`](./aula7/GUIA.md) |
+| 8 | Introdução ao Databricks | [`aula8/GUIA.md`](./aula8/GUIA.md) |
+| 9 | Power BI com SQL | [`aula9/GUIA.md`](./aula9/GUIA.md) |
+| 10 | Projeto final | [`aula10/GUIA.md`](./aula10/GUIA.md) |
 
-## Como acessar os materiais?
+## Nível da oficina
 
-Tutorial de instalação do SQL Server e SQL Server Management Studio: [Youtube: SSMS - 2022 Download e Instalação](https://www.youtube.com/watch?v=tZs8ZPMvNzM)
+O material prioriza leitura de consultas, prática acompanhada e pequenos desafios. Não é necessário conhecimento prévio. Conteúdos avançados ou que não pertencem à aula ficam fora do caminho obrigatório.
 
-Script de criação do Banco de Dados: [Tabelas para praticar consultas](./Script-EMPRESA.sql)
+## Materiais
 
-Tutorial de como abrir o script e criar o banco de dados, para realizar os exercicios das aulas: [Como baixar os arquivos das aulas e exercícios do workshop SQL Essencial.](https://www.youtube.com/watch?v=jCjeDQikpac)
+- Banco de prática: [`Script-EMPRESA.sql`](./Script-EMPRESA.sql)
+- Listas extras: [`listas_de_exercícios`](./listas_de_exercícios/)
+- Dúvidas: fale com o instrutor pelo Teams ou pelo e-mail institucional informado durante a oficina.
 
-## Cronograma:
-| Aula | Conteúdo | Material |
-|------|----------|----------|
-| 1 | SELECT, FROM | [📄 Aula 1](./aula1/) |
-| 2 | WHERE, LIKE, DISTINCT, TOP, ORDER BY, IN, OR, BETWEEN | [📄 Aula 2](./aula2/) |
-| 3 | CREATE, INSERT, UPDATE, DELETE | [📄 Aula 3](./aula3/) |
-| 4 | COUNT, SUM, AVG, MIN, MAX, GROUP BY | [📄 Aula 4](./aula4/) |
-| 5 | JOINS | [📄 Aula 5](./aula5/) |
-| 6 | QUIZ | [📄 Aula 6](./aula6/) |
-| 7 | PROJETO | [📄 Aula 7](./aula7/) |
-| 8 | DATABRICKS | [📄 Aula 8](./aula8/) |
-| 9 | POWERBI COM SQL | [📄 Aula 9](./aula9/) |
-| 10 | PROJETO FINAL | [📄 Aula 10](./aula10/) |
+## Certificado
 
-## Certificado:
-
-A instituição realizará a emissão do certificado ao aluno que obtiver uma frequência mínima de 70%. Contudo, alunos que não concluírem a inscrição até a data limite 13/03/2026
-não terão direito à emissão do certificado ao final da oficina.
-
-## Contato:
-
-- Quaisquer dúvidas, entrar em contato conosco através do seguintes e-mails ou através de um chat privado no Teams:
-  - Caio Pires Vasconcellos (caio.vasconcellos@fatec.sp.gov.br)
-  - Filipe Mandelli Queroz (Filipe.queroz@fatec.sp.gov.br )
-  - Mateus Augusto da Silva Ernesto (mateus.ernesto@fatec.sp.gov.br)
-  - Luan Pascoal do Bem Silva (luan.silva131@fatec.sp.gov.br)
- 
-- CONTATO DOS CRIADORES DO MATERIAL:
-    - Mateus Monteiro da Costa (mateus.costa24@fatec.sp.gov.br)
-    - Victor Lorenzo Castro Rorigues (victor.rodrigues41@fatec.sp.gov.br)
-
-## Materiais adicionais:
-
-- 📺 Videoaula: [Curso básico de SQL](https://youtube.com/playlist?list=PLpdAy0tYrnKw_F8v6kkEXTeyE33Navv-K&si=O_6i8BwLv84IY9wU) - Hashtag Treinamentos
-- 🎧 Podcast: [TechGuide: SQL](https://open.spotify.com/episode/0VKVgHlVtkfWHRQ9xfDiYX) - Hipsters Ponto Tech #356
-- 📖 Livro: [Sistemas de Banco de Dados](https://dn720003.ca.archive.org/0/items/sistemas-de-banco-de-dados-ramez-elmasri-shamkant-b.-navathe-z-lib.org/Sistemas%20De%20Banco%20De%20Dados%20%28Ramez%20Elmasri%2C%20Shamkant%20B.%20Navathe%29%20%28z-lib.org%29.pdf) - Elsmari, R., Navathe, Shamkant B.
-- 🧩 Jogo: [SQL Murder Mystery](https://mystery.knightlab.com/) - Você consegue descobrir quem é o culpado?
+A emissão segue as regras de frequência e inscrição definidas pela FATEC para a turma.

@@ -32,6 +32,7 @@ O material prioriza leitura de consultas, prática acompanhada e pequenos desafi
 
 - Banco de prática: [`Script-EMPRESA.sql`](./Script-EMPRESA.sql)
 - Listas extras: [`listas_de_exercícios`](./listas_de_exercícios/)
+- Trilha gratuita para os exercícios avançados: [`TRILHA-AVANCADA.md`](./TRILHA-AVANCADA.md)
 - Dúvidas: fale com o instrutor pelo Teams ou pelo e-mail institucional informado durante a oficina.
 
 ## Certificado
